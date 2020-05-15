@@ -1,4 +1,4 @@
-# Download data files for it project
+# Download data files for this project
 
 download the zip file from the following site (click on 'Download Full Data Set (CSV)' preferably of year 2019)
 ```
